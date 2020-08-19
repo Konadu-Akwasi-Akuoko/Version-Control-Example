@@ -9,7 +9,7 @@ public class TestGrounds : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        this.gameObject.GetComponent<MeshRenderer>().material.color = Color.blue;
+        
     }
 
     // Update is called once per frame
